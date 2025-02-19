@@ -36,32 +36,68 @@ By providing data-driven insights, this project aims to support sustainable econ
 
 ## 3. Original Datasets and Mashup Dataset
 
-### D1. Establishments, bedrooms, and bed-places in tourist accommodation (NUTS 2 region)
+### D1.
+[Establishments, bedrooms, and bed-places in tourist accommodation (NUTS 2 region)](https://ec.europa.eu/eurostat/databrowser/view/tour_cap_nuts2__custom_15258263/default/table?lang=en)
+
 Source: Eurostat
+
 Accessed on: Eurostat Data Browser
+
 License: Eurostat open data policy
+
 Description: This dataset provides information on the number of tourist accommodation establishments, bedrooms, and bed places across different NUTS 2 regions in Italy. It is useful for analyzing the availability of infrastructure for tourism across regions and its potential link to economic performance.
 
-### D2. Guest nights spent at short-stay accommodations via collaborative economy platforms (NUTS 3 region)
+### D2.
+[Guest nights spent at short-stay accommodations via collaborative economy platforms (NUTS 3 region)](https://ec.europa.eu/eurostat/databrowser/view/tour_ce_oan3__custom_15258506/default/table?lang=en)
+
 Source: Eurostat (Experimental Statistics)
+
 Accessed on: Eurostat Data Browser
+
 License: Eurostat open data policy
+
 Description: This dataset presents the number of guest nights booked through short-term rental platforms (e.g., Airbnb, Booking.com) at the NUTS 3 level. It helps assess the impact of peer-to-peer accommodations on regional tourism activity.
 
-### D3. Accommodation establishments: Occupancy in collective tourist accommodation (monthly data)
+### D3.
+[Accommodation establishments: Occupancy in collective tourist accommodation by type of accommodation(monthly data)](http://dati.istat.it/?lang=en#)
+
 Source: ISTAT
+
 Accessed on: ISTAT Data Browser
+
 License: ISTAT open data policy
-Description: This dataset contains monthly occupancy rates of collective tourist accommodations, allowing for the analysis of seasonal trends and the identification of peak tourism periods across different regions.
 
-### D4. Establishments, bedrooms, and bed-places in tourist accommodation (NUTS 2 region) – Alternative Source
-Source: Eurostat
-Accessed on: Eurostat Data Browser
-License: Eurostat open data policy
-Description: Similar to D1, this dataset provides an overview of tourist accommodation capacity at the NUTS 2 level but offers an alternative breakdown for cross-verification of data reliability.
+Description: This dataset provides detailed monthly occupancy statistics for different types of tourist accommodations across Italy, categorized by NACE rev. 2 industry codes. It includes information on the country of residence of guests, enabling an analysis of domestic vs. international tourism trends. The dataset helps assess how different types of accommodations (e.g., hotels, B&Bs, campsites) perform seasonally and regionally, offering a more granular view of tourism dynamics
 
-### D5. Nights spent at tourist accommodation establishments (NUTS 2 region)
+### D4.
+[Arrivals at tourist accommodation establishments by NUTS 2 region](https://ec.europa.eu/eurostat/databrowser/view/tour_occ_arn2/default/table?lang=en&category=tour.tour_inda.tour_occ.tour_occ_a)
+
 Source: Eurostat
+
 Accessed on: Eurostat Data Browser
+
 License: Eurostat open data policy
+
+Description: This dataset tracks the number of tourist arrivals at accommodation establishments across NUTS 2 regions in Italy. It provides an important indicator of tourism flows into different regions and helps assess how cultural heritage sites attract visitors relative to other areas.
+
+### D5.
+[Nights spent at tourist accommodation establishments (NUTS 2 region)](https://ec.europa.eu/eurostat/databrowser/product/view/tour_occ_nin2?category=tour.tour_inda.tour_occ.tour_occ_n)
+
+Source: Eurostat
+
+Accessed on: Eurostat Data Browser
+
+License: Eurostat open data policy
+
 Description: This dataset reports the total number of nights spent by tourists in accommodations across NUTS 2 regions, providing insights into tourism demand and visitor behavior in different parts of Italy.
+
+### D6.
+[Occupancy in tourist accommodation, by NUTS 2 region](https://ec.europa.eu/eurostat/databrowser/view/tour_occ_anor2/default/table?lang=en&category=tour.tour_inda.tour_occ.tour_occ_or)
+
+Source: Eurostat
+
+Accessed on: Eurostat Data Browser
+
+License: Eurostat open data policy
+
+Description: This dataset provides net occupancy rates of bed places and bedrooms in hotels and similar accommodations (NACE Rev. 2 activity I55.1) at the NUTS 2 regional level. Unlike other datasets that require occupancy rates to be calculated from total nights spent and available bed places, this dataset offers direct occupancy metrics, allowing for more efficient analysis. It can be particularly useful for cross-verifying occupancy rates derived from other datasets and for assessing regional disparities in accommodation usage.
