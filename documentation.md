@@ -4,7 +4,7 @@
 
 In recent years, Italy's cultural heritage and tourism industry have become central topics of discussion, both nationally and internationally. Italy's rich cultural heritage is globally renowned, attracting millions of visitors each year. From UNESCO World Heritage Sites to local historical landmarks, cultural assets play a significant role in shaping tourism and, by extension, local economies. However, the economic and social impact of this cultural wealth varies significantly across different regions of the country. While some regions, such as Tuscany and Lazio, have successfully leveraged their cultural assets to drive tourism and economic growth, others struggle to fully capitalize on their potential.
 
-The Italian economy, particularly in the post-pandemic era, has faced challenges in revitalizing its tourism sector, which is a key driver of employment and regional development ([ResearchGate]https://www.researchgate.net/publication/352268393_Post-pandemic_tourism_resilience_changes_in_Italians%27_travel_behavior_and_the_possible_responses_of_tourist_cities). At the same time, disparities in economic performance, employment rates, and income levels persist across regions ([OECD](https://www.oecd.org/en/publications/job-creation-and-local-economic-development-2024-country-notes_ad2806c1-en/italy_9a583862-en.html)), raising questions about the role of cultural heritage in fostering sustainable economic growth.
+The Italian economy, particularly in the post-pandemic era, has faced challenges in revitalizing its tourism sector, which is a key driver of employment and regional development ([ResearchGate] (https://www.researchgate.net/publication/352268393_Post-pandemic_tourism_resilience_changes_in_Italians%27_travel_behavior_and_the_possible_responses_of_tourist_cities)). At the same time, disparities in economic performance, employment rates, and income levels persist across regions ([OECD](https://www.oecd.org/en/publications/job-creation-and-local-economic-development-2024-country-notes_ad2806c1-en/italy_9a583862-en.html)), raising questions about the role of cultural heritage in fostering sustainable economic growth.
 
 In this context, three key questions arise:
 1. How does the presence of cultural heritage sites impact tourism activity and economic performance in different Italian regions?
@@ -101,3 +101,14 @@ Accessed on: Eurostat Data Browser
 License: Eurostat open data policy
 
 Description: This dataset provides net occupancy rates of bed places and bedrooms in hotels and similar accommodations (NACE Rev. 2 activity I55.1) at the NUTS 2 regional level. Unlike other datasets that require occupancy rates to be calculated from total nights spent and available bed places, this dataset offers direct occupancy metrics, allowing for more efficient analysis. It can be particularly useful for cross-verifying occupancy rates derived from other datasets and for assessing regional disparities in accommodation usage.
+
+### D7.
+[Luoghi della cultura](https://dati.beniculturali.it/lodview/resource/Distribuzione/datasetLuoghiDellaCultura-JSON_LD)
+
+Source: MiC – Direzione generale Organizzazione
+
+Accessed on: MiC Open Data Catalog
+
+License: Creative Commons Attribution 3.0 Unported (CC BY 3.0) License
+
+Description: This dataset contains data from DBUnico 2.0, describing state and non-state owned cultural sites in Italy, categorized by province and regions, managed and updated by MiC (General Directorate for Organization).
