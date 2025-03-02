@@ -112,3 +112,37 @@ Accessed on: MiC Open Data Catalog
 License: Creative Commons Attribution 3.0 Unported (CC BY 3.0) License
 
 Description: This dataset contains data from DBUnico 2.0, describing state and non-state owned cultural sites in Italy, categorized by province and regions, managed and updated by MiC (General Directorate for Organization).
+
+### D8.
+[Gross Domestic Product Supply Side](https://esploradati.istat.it/databrowser/#/en/dw/categories/IT1,DATAWAREHOUSE,1.0/UP_ACC_TERRIT/IT1,93_498_DF_DCCN_PILT_1,1.0)
+
+Source: ISTAT
+
+Accessed on: ISTAT Data Browser
+
+License: ISTAT open data policy
+
+Description: This dataset provides a breakdown of Italy's GDP by analyzing the value added by different economic sectors, such as agriculture, industry, and services. It enables users to assess each sector's contribution to the overall economy, facilitating a comprehensive understanding of economic performance from the supply side.
+
+### D9.
+[Employment by Economic Sector (2010 Classification)](https://esploradati.istat.it/databrowser/#/en/dw/categories/IT1,DATAWAREHOUSE,1.0/UP_ACC_TERRIT/UP_DCCN_OCCTSEC2010/IT1,93_379_DF_DCCN_OCCTSEC2010_2,1.0)
+
+Source: ISTAT
+
+Accessed on: ISTAT Data Browser
+
+License: ISTAT open data policy
+
+Description: This dataset provides employment data categorized by economic sector based on the 2010 classification. It details the distribution of the workforce across agriculture, industry, and services at different territorial levels, helping assess employment trends and the economic structure of Italian regions.
+
+### D10.
+[Household Net Income by Source of Income](https://esploradati.istat.it/databrowser/#/en/dw/categories/IT1,HOU,1.0/HOU_INCOME/DCCV_REDNETFAMFONTERED/IT1,32_292_DF_DCCV_REDNETFAMFONTERED_9,1.0)
+
+Source: ISTAT
+
+Accessed on: ISTAT Data Browser
+
+License: ISTAT open data policy
+
+Description: This dataset provides information on household net income, broken down by different sources of income (e.g., wages, pensions, business income) at various territorial levels. It is useful for analyzing regional disparities in income levels and understanding how different economic activities contribute to household earnings.
+
